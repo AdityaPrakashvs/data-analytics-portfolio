@@ -1,33 +1,63 @@
-# 📊 Insurance Data Analysis
+# 🛡️ Insurance Data Analysis
 
 ## 📌 Objective
-To analyze insurance customer data and identify patterns that impact charges, demographics, and risk factors.
+Analyze insurance data to understand claim patterns, customer behavior, and key factors affecting insurance claims.
 
-## 🛠 Tools Used
-- Power BI  
-- Excel  
+---
+
+## 🛠️ Tools Used
+- Power BI
+- Excel
+
+---
 
 ## 📂 Dataset
-- Insurance dataset containing customer details such as age, BMI, region, smoking habits, and charges.
+- Insurance dataset containing customer details, policy information, and claim records
+- Includes attributes like age, charges, region, and claim status
 
-## 🔍 Approach
-- Cleaned and structured data using Excel
-- Performed exploratory analysis to identify key variables
-- Built interactive dashboard in Power BI
-- Compared customer segments based on risk factors
+---
 
 ## 📊 Key Insights
-- Smoking status significantly increases insurance charges
-- Higher BMI is correlated with higher medical costs
-- Certain regions show higher average claims
-- Age is a major factor influencing charges
+- Identified factors influencing insurance charges
+- Analyzed claim distribution across different regions
+- Observed patterns based on age and customer demographics
+- Highlighted high-cost and low-cost customer segments
 
-## 📷 Dashboard Preview
+---
 
+## 📸 Dashboard Preview
+
+### 🔹 Insurance Dashboard Overview
+![Insurance Dashboard](screenshots/insurance_dashboard_overview.png)
+
+### 🔹 Insurance Table View
+![Insurance Table](screenshots/insurance_table_view.png)
+
+---
+
+## 🚀 Project Highlights
+- Built an interactive Power BI dashboard for insurance analysis
+- Used filters and slicers for dynamic exploration
+- Visualized customer and claim data for better decision-making
+- Performed data cleaning and preprocessing in Excel
+
+---
 
 ## 📁 Files Included
-- Dataset (.csv / .xlsx)
-- Power BI Dashboard (.pbix)
+- `InsuranceData.csv` → Raw dataset  
+- `Insurance+Customer+Feedback.xlsx` → Additional dataset  
+- `Insurance-Data-Analysis.pbix` → Power BI dashboard  
 
-## 📈 Outcome
-This project demonstrates the ability to analyze customer data and derive insights useful for pricing and risk assessment.
+---
+
+## 🔗 How to Use
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Interact with dashboard using filters and slicers  
+
+---
+
+## 💡 Learnings
+- Understanding of insurance data and claim behavior  
+- Data visualization techniques for business insights  
+- Dashboard design and storytelling with data  
